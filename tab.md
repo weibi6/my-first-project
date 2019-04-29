@@ -45,4 +45,4 @@ btn[i].onclick=function()
 </script>
 </body>
 </html>
-
+![tab](https://github.com/weibi6/my-works/blob/master/tab.jpg)
